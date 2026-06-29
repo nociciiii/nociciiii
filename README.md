@@ -1,4 +1,4 @@
-# Hi, I'm [noci]
+# Hi, I'm noci
 
 I'm a beginner software developer who is passionate about learning and growing through hands-on experience. I'm currently building my skills by working on personal projects, exploring new technologies, and improving my problem-solving abilities.
 
